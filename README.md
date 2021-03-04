@@ -1,0 +1,2 @@
+# TCP-Proxy-Server-with-Multiprocessing
+Uses socket programming in python, and uses HTTP protocol. The objective of this assignment was to develop a network application using stream socket API. This application understands simple HTTP GET-requests. The program implements Multiprocessing where the server can handle multiple clients at the same time. Error Handling cases are implemented. The proxy caches the web pages. 
