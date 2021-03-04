@@ -3,7 +3,7 @@ Uses socket programming in python, and uses HTTP protocol. The objective of this
 
 
 ***NOTE*****************************************
-Make sure to run our proxy only in google crome
+Make sure to run the proxy only in google crome
 ************************************************
 
 Step 1: get the directory of where the proxy is located
